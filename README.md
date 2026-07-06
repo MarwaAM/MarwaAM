@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Marwa 👋</h1>
 
-<p align="center">
-  Software engineer who likes owning the whole stack — front to back, plus the process that holds it together.
-</p>
+<h3 align="center">Software engineer who likes owning the whole stack — front to back, plus the process that holds it together.</h3>
 
 ## About me
 
@@ -14,18 +12,20 @@ I'm a software engineer who enjoys working across the full stack, from architect
 
 ## 🛠️ Tech stack
 
-**Languages:** TypeScript, JavaScript, Python
-**Frontend:** React, Next.js, Angular
-**Backend:** Node.js, NestJS, Prisma, REST APIs, GraphQL
-**Databases:** SQL, MongoDB
-**Cloud & infra:** AWS, GitHub Actions
-**AI tooling:** Claude Code, agentic dev workflows
+- **Languages:** TypeScript, JavaScript, Python
+- **Frontend:** React, Next.js, Angular
+- **Backend:** Node.js, NestJS, Prisma, REST APIs, GraphQL
+- **Databases:** SQL, MongoDB
+- **Cloud & infra:** AWS, GitHub Actions
+- **AI tooling:** Claude Code, agentic dev workflows
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarwaAM&show_icons=true&theme=default&hide_border=true" alt="Marwa's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaAM&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MarwaAM&theme=react-dark&hide_border=true" alt="Marwa's contribution activity graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarwaAM&theme=default&hide_border=true" alt="Marwa's GitHub streak stats" />
 </p>
 
 ## 📫 Connect
